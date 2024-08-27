@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "hr-system-web": {
+      "appLocation": ".",
+      "outputLocation": ".",
+      "appName": "hrsystemweb",
+      "resourceGroup": "hrsystem"
+    }
+  }
+}
